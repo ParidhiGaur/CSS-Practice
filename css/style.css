@@ -1,0 +1,77 @@
+
+body{
+  color: #40514E;
+  background-color: #f6f6f6;
+  margin: 0;
+  text-align: center;
+font-family: 'Catamaran', sans-serif;
+}
+h1{
+  color: #66BFBF;
+  font-size: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+.Mypic{
+  width:280px;
+  height: 300px;
+  border-radius: 50%;
+}
+.skillsImg{
+  width:25%;
+  height:25%;
+  float: left;
+  margin-right:30px;
+}
+.top{
+  background-color: #d2fafb;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container{
+  padding:50px;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.cloud2{
+  position: absolute;
+  bottom:350px;
+
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+}
+
+.sub{
+  text-decoration: line-through;
+}
+
+a{
+  color: #11999E;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+hr{
+  border: dotted #d7d1c9 6px;
+  border-bottom: none;
+  width: 10%;
+}
